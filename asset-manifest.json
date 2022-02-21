@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Movie/static/js/main.5e92846d.js",
+    "index.html": "/Movie/index.html",
+    "main.5e92846d.js.map": "/Movie/static/js/main.5e92846d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e92846d.js"
+  ]
+}
