@@ -14,6 +14,7 @@ function App() {
         <Route path="/movie/:id" element={<Detail/>}/>
       </Routes>
     </Router>
+    
   );
 }
 
